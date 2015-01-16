@@ -1,2 +1,4 @@
 INTRODUCTION
 Beginning of the story.
+
+METHODS
